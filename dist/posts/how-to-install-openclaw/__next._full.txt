@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/b342db4cc7554694.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"zV-jwR04iwiEl37f-WYFI","c":["","posts","how-to-install-openclaw",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","how-to-install-openclaw","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/b342db4cc7554694.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+4:["$","div",null,{"className":"min-h-screen bg-white dark:bg-zinc-950","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-md border-b border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"flex items-center justify-between h-16","children":[["$","$Ld",null,{"href":"/","className":"flex items-center space-x-2","children":["$","span",null,{"className":"text-xl font-bold text-zinc-900 dark:text-white","children":["OpenClaw",["$","span",null,{"className":"text-blue-600","children":"Wiki"}]]}]}],["$","nav",null,{"className":"hidden md:flex items-center space-x-6","children":[["$","$Ld","/tutorials",{"href":"/tutorials","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Tutorials"}],["$","$Ld","/agents",{"href":"/agents","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Agents"}],["$","$Ld","/tools",{"href":"/tools","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Tools"}],["$","$Ld","/templates",{"href":"/templates","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Templates"}],["$","$Ld","/guides",{"href":"/guides","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Guides"}],["$","$Ld","/search",{"href":"/search","className":"text-sm font-medium text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Search"}]]}],["$","$Ld",null,{"href":"/search","className":"md:hidden p-2 text-zinc-600 dark:text-zinc-400","aria-label":"Search","children":["$","svg",null,{"className":"w-5 h-5","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"}]}]}]]}]}]}],["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How to Install OpenClaw Step by Step\",\"description\":\"A complete step-by-step guide to installing OpenClaw on your system. Covers all platforms: Windows, macOS, and Linux.\",\"image\":\"/images/install-openclaw.png\",\"datePublished\":\"2026-03-14\",\"dateModified\":\"2026-03-14\",\"author\":{\"@type\":\"Organization\",\"name\":\"OpenClaw Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"OpenClaw Wiki\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://openclawwiki.com/logo.png\"}},\"keywords\":\"OpenClaw installation, setup guide, install OpenClaw, getting started\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://openclawwiki.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"tutorials\",\"item\":\"https://openclawwiki.com/tutorials\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How to Install OpenClaw Step by Step\",\"item\":\"https://openclawwiki.com/posts/how-to-install-openclaw\"}]}"}}],["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-8","children":["$","nav",null,{"className":"flex items-center text-sm text-zinc-500 dark:text-zinc-400","children":[["$","$Ld",null,{"href":"/","className":"hover:text-zinc-900 dark:hover:text-white","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$Ld",null,{"href":"/tutorials","className":"capitalize hover:text-zinc-900 dark:hover:text-white","children":"tutorials"}],"$Le","$Lf"]}]}],"$L10","$L11"]}],"$L12"]}]
+:HL["/images/install-openclaw.png","image"]
+:HL["/images/first-agent.png","image"]
+:HL["/images/openclaw-intro.png","image"]
+e:["$","span",null,{"className":"mx-2","children":"/"}]
+f:["$","span",null,{"className":"text-zinc-900 dark:text-white truncate","children":"How to Install OpenClaw Step by Step"}]
+13:T1953,<h2>Introduction</h2>
+<p>This guide will walk you through the complete installation process for OpenClaw. Whether you're using Windows, macOS, or Linux, we've got you covered.</p>
+<h2>Prerequisites</h2>
+<p>Before installing OpenClaw, ensure you have:</p>
+<ul>
+<li><strong>Node.js</strong> version 18 or higher</li>
+<li><strong>npm</strong> or <strong>pnpm</strong> or <strong>yarn</strong> package manager</li>
+<li>A code editor (VS Code recommended)</li>
+<li>Git (optional but recommended)</li>
+</ul>
+<h3>Checking Prerequisites</h3>
+<p>Open your terminal and run:</p>
+<pre><code class="language-bash">node --version
+npm --version
+</code></pre>
+<p>If you don't have Node.js installed, download it from <a href="https://nodejs.org/">nodejs.org</a>.</p>
+<h2>Installation Methods</h2>
+<h3>Method 1: Using npm (Recommended)</h3>
+<p>The easiest way to install OpenClaw is using npm:</p>
+<pre><code class="language-bash">npm install -g openclaw
+</code></pre>
+<p>Verify the installation:</p>
+<pre><code class="language-bash">openclaw --version
+</code></pre>
+<h3>Method 2: Using pnpm</h3>
+<p>If you prefer pnpm:</p>
+<pre><code class="language-bash">pnpm add -g openclaw
+</code></pre>
+<h3>Method 3: Using Docker</h3>
+<p>For containerized environments:</p>
+<pre><code class="language-bash">docker pull openclaw/openclaw:latest
+</code></pre>
+<h3>Method 4: From Source</h3>
+<p>For developers who want to contribute or customize:</p>
+<pre><code class="language-bash">git clone https://github.com/openclaw/openclaw.git
+cd openclaw
+npm install
+npm run build
+npm link
+</code></pre>
+<h2>Platform-Specific Instructions</h2>
+<h3>Windows</h3>
+<ol>
+<li>Open PowerShell or Command Prompt as Administrator</li>
+<li>Run the npm installation command</li>
+<li>Add OpenClaw to your PATH if needed:
+<pre><code class="language-powershell">setx PATH "%PATH%;%APPDATA%\npm"
+</code></pre>
+</li>
+<li>Restart your terminal</li>
+</ol>
+<h3>macOS</h3>
+<ol>
+<li>Open Terminal</li>
+<li>If you don't have Homebrew, install it:
+<pre><code class="language-bash">/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+</code></pre>
+</li>
+<li>Install Node.js via Homebrew:
+<pre><code class="language-bash">brew install node
+</code></pre>
+</li>
+<li>Install OpenClaw:
+<pre><code class="language-bash">npm install -g openclaw
+</code></pre>
+</li>
+</ol>
+<h3>Linux</h3>
+<h4>Ubuntu/Debian</h4>
+<pre><code class="language-bash"># Update package list
+sudo apt update
+
+# Install Node.js
+sudo apt install nodejs npm
+
+# Install OpenClaw
+sudo npm install -g openclaw
+</code></pre>
+<h4>CentOS/RHEL/Fedora</h4>
+<pre><code class="language-bash"># Install Node.js
+sudo dnf install nodejs npm
+
+# Install OpenClaw
+sudo npm install -g openclaw
+</code></pre>
+<h4>Arch Linux</h4>
+<pre><code class="language-bash"># Install Node.js
+sudo pacman -S nodejs npm
+
+# Install OpenClaw
+sudo npm install -g openclaw
+</code></pre>
+<h2>Initial Configuration</h2>
+<p>After installation, configure OpenClaw:</p>
+<ol>
+<li>
+<p><strong>Initialize the configuration</strong>:</p>
+<pre><code class="language-bash">openclaw init
+</code></pre>
+</li>
+<li>
+<p><strong>Set up your API keys</strong> (if using cloud AI providers):</p>
+<pre><code class="language-bash">openclaw config set openai.api_key YOUR_API_KEY
+</code></pre>
+</li>
+<li>
+<p><strong>Verify configuration</strong>:</p>
+<pre><code class="language-bash">openclaw config list
+</code></pre>
+</li>
+</ol>
+<h2>Creating Your First Project</h2>
+<p>Let's create a simple project to verify everything is working:</p>
+<pre><code class="language-bash"># Create a new project
+openclaw new my-first-agent
+cd my-first-agent
+
+# Start the development server
+openclaw dev
+</code></pre>
+<p>You should see output indicating the server is running on <code>http://localhost:3000</code>.</p>
+<h2>Common Issues and Solutions</h2>
+<h3>Permission Denied (macOS/Linux)</h3>
+<p>If you get permission errors, you may need to fix npm permissions:</p>
+<pre><code class="language-bash">mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
+echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
+</code></pre>
+<h3>Node Version Too Old</h3>
+<p>If you see a Node version error, upgrade Node.js:</p>
+<pre><code class="language-bash"># Using nvm (recommended)
+nvm install 18
+nvm use 18
+
+# Or download from nodejs.org
+</code></pre>
+<h3>Port Already in Use</h3>
+<p>If port 3000 is taken, specify a different port:</p>
+<pre><code class="language-bash">openclaw dev --port 3001
+</code></pre>
+<h3>Windows Defender or Antivirus Warnings</h3>
+<p>Some antivirus software may flag OpenClaw. Add an exception for:</p>
+<ul>
+<li>The OpenClaw installation directory</li>
+<li>The <code>openclaw</code> executable</li>
+</ul>
+<h2>Next Steps</h2>
+<p>Now that OpenClaw is installed, you're ready to:</p>
+<ol>
+<li><strong>Build your first agent</strong>: Follow our <a href="/posts/build-first-ai-agent">beginner tutorial</a></li>
+<li><strong>Explore templates</strong>: Check out the template gallery</li>
+<li><strong>Read the docs</strong>: Dive deeper into OpenClaw's features</li>
+<li><strong>Join the community</strong>: Connect with other users</li>
+</ol>
+<h2>Updating OpenClaw</h2>
+<p>To update to the latest version:</p>
+<pre><code class="language-bash">npm update -g openclaw
+</code></pre>
+<p>Or reinstall:</p>
+<pre><code class="language-bash">npm uninstall -g openclaw
+npm install -g openclaw
+</code></pre>
+<h2>Uninstalling OpenClaw</h2>
+<p>If you need to remove OpenClaw:</p>
+<pre><code class="language-bash">npm uninstall -g openclaw
+</code></pre>
+<h2>FAQ</h2>
+<p><strong>Q: Can I install OpenClaw without admin/sudo access?</strong></p>
+<p>A: Yes, use a Node version manager like nvm or install locally in your project.</p>
+<p><strong>Q: How much disk space does OpenClaw need?</strong></p>
+<p>A: Approximately 500MB for the base installation, plus space for your projects.</p>
+<p><strong>Q: Can I use OpenClaw offline?</strong></p>
+<p>A: Yes, if you're using local AI models. Cloud providers require internet access.</p>
+<p><strong>Q: Is there a GUI version?</strong></p>
+<p>A: OpenClaw is primarily CLI-based, but web interfaces are available through community plugins.</p>
+<h2>Conclusion</h2>
+<p>You now have OpenClaw installed and ready to go! The installation process is straightforward across all platforms. If you encounter any issues not covered here, check our <a href="/posts/troubleshooting">troubleshooting guide</a> or reach out to the community.</p>
+<p>Happy building!</p>
+10:["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","header",null,{"className":"mb-12","children":[["$","div",null,{"className":"flex items-center space-x-2 mb-4","children":[["$","$Ld",null,{"href":"/tutorials","className":"text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide","children":"tutorials"}],false]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-zinc-900 dark:text-white mb-6","children":"How to Install OpenClaw Step by Step"}],["$","p",null,{"className":"text-xl text-zinc-600 dark:text-zinc-400 mb-6","children":"A complete step-by-step guide to installing OpenClaw on your system. Covers all platforms: Windows, macOS, and Linux."}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-zinc-500 dark:text-zinc-400","children":[["$","span",null,{"children":"OpenClaw Team"}],["$","span",null,{"children":"•"}],["$","time",null,{"dateTime":"2026-03-14","children":["Published ","March 14, 2026"]}],false]}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-6","children":[["$","$Ld","installation",{"href":"/tags/installation","className":"px-3 py-1 text-sm bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 rounded-full hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors","children":"installation"}],["$","$Ld","setup",{"href":"/tags/setup","className":"px-3 py-1 text-sm bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 rounded-full hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors","children":"setup"}],["$","$Ld","beginner",{"href":"/tags/beginner","className":"px-3 py-1 text-sm bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 rounded-full hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors","children":"beginner"}],["$","$Ld","getting-started",{"href":"/tags/getting-started","className":"px-3 py-1 text-sm bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 rounded-full hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors","children":"getting-started"}]]}]]}],["$","div",null,{"className":"mb-12","children":["$","img",null,{"src":"/images/install-openclaw.png","alt":"How to Install OpenClaw Step by Step","className":"w-full h-auto rounded-lg"}]}],["$","div",null,{"className":"prose prose-zinc dark:prose-invert max-w-none prose-headings:font-semibold prose-headings:text-zinc-900 dark:prose-headings:text-white prose-p:text-zinc-700 dark:prose-p:text-zinc-300 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-strong:text-zinc-900 dark:prose-strong:text-white prose-code:text-pink-600 dark:prose-code:text-pink-400 prose-code:bg-zinc-100 dark:prose-code:bg-zinc-800 prose-code:px-1 prose-code:py-0.5 prose-code:rounded prose-pre:bg-zinc-900 prose-pre:text-zinc-100 prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-zinc-50 dark:prose-blockquote:bg-zinc-900 prose-blockquote:pl-4 prose-blockquote:py-2 prose-img:rounded-lg prose-ul:list-disc prose-ol:list-decimal","dangerouslySetInnerHTML":{"__html":"$13"}}]]}]
+11:["$","section",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 border-t border-zinc-200 dark:border-zinc-800","children":[["$","h2",null,{"className":"text-2xl font-bold text-zinc-900 dark:text-white mb-8","children":"Related Articles"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","article","build-first-ai-agent",{"className":"group flex flex-col h-full bg-white dark:bg-zinc-900 rounded-lg border border-zinc-200 dark:border-zinc-800 overflow-hidden hover:border-zinc-400 dark:hover:border-zinc-600 transition-colors","children":[["$","div",null,{"className":"aspect-video overflow-hidden bg-zinc-100 dark:bg-zinc-800","children":["$","img",null,{"src":"/images/first-agent.png","alt":"Build Your First AI Agent with OpenClaw","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"}]}],["$","div",null,{"className":"flex flex-col flex-1 p-5","children":[["$","$Ld",null,{"href":"/tutorials","className":"text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-2","children":"tutorials"}],["$","h3",null,{"className":"text-lg font-semibold text-zinc-900 dark:text-zinc-100 mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors","children":["$","$Ld",null,{"href":"/posts/build-first-ai-agent","children":"Build Your First AI Agent with OpenClaw"}]}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400 line-clamp-2 mb-4 flex-1","children":"Learn how to build your first AI agent from scratch using OpenClaw. Step-by-step tutorial for beginners with no prior experience."}],["$","div",null,{"className":"flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-500","children":[["$","time",null,{"dateTime":"2026-03-14","children":"Mar 14, 2026"}],["$","span",null,{"children":"OpenClaw Team"}]]}]]}]]}],["$","article","what-is-openclaw",{"className":"group flex flex-col h-full bg-white dark:bg-zinc-900 rounded-lg border border-zinc-200 dark:border-zinc-800 overflow-hidden hover:border-zinc-400 dark:hover:border-zinc-600 transition-colors","children":[["$","div",null,{"className":"aspect-video overflow-hidden bg-zinc-100 dark:bg-zinc-800","children":["$","img",null,{"src":"/images/openclaw-intro.png","alt":"What Is OpenClaw? Complete Beginner Guide","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"}]}],["$","div",null,{"className":"flex flex-col flex-1 p-5","children":[["$","$Ld",null,{"href":"/tutorials","className":"text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-2","children":"tutorials"}],["$","h3",null,{"className":"text-lg font-semibold text-zinc-900 dark:text-zinc-100 mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors","children":["$","$Ld",null,{"href":"/posts/what-is-openclaw","children":"What Is OpenClaw? Complete Beginner Guide"}]}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400 line-clamp-2 mb-4 flex-1","children":"Learn what OpenClaw is, how it works, and why it's the best platform for building AI agents. A complete beginner's guide to getting started."}],["$","div",null,{"className":"flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-500","children":[["$","time",null,{"dateTime":"2026-03-14","children":"Mar 14, 2026"}],["$","span",null,{"children":"OpenClaw Team"}]]}]]}]]}],["$","article","best-openclaw-tools-beginners",{"className":"group flex flex-col h-full bg-white dark:bg-zinc-900 rounded-lg border border-zinc-200 dark:border-zinc-800 overflow-hidden hover:border-zinc-400 dark:hover:border-zinc-600 transition-colors","children":[["$","div",null,{"className":"aspect-video overflow-hidden bg-zinc-100 dark:bg-zinc-800","children":"$L14"}],"$L15"]}]]}]]}]
+12:["$","footer",null,{"className":"bg-zinc-50 dark:bg-zinc-900 border-t border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"md:col-span-1","children":[["$","$Ld",null,{"href":"/","className":"flex items-center space-x-2 mb-4","children":["$","span",null,{"className":"text-xl font-bold text-zinc-900 dark:text-white","children":["OpenClaw",["$","span",null,{"className":"text-blue-600","children":"Wiki"}]]}]}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400","children":"The ultimate resource for OpenClaw AI agents, tutorials, and automation guides."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-zinc-900 dark:text-white uppercase tracking-wider mb-4","children":"Tutorials"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/tutorials",{"children":["$","$Ld",null,{"href":"/tutorials","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"All Tutorials"}]}],["$","li","/tutorials/beginner",{"children":["$","$Ld",null,{"href":"/tutorials/beginner","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Beginner"}]}],["$","li","/tutorials/advanced",{"children":["$","$Ld",null,{"href":"/tutorials/advanced","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Advanced"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-zinc-900 dark:text-white uppercase tracking-wider mb-4","children":"Resources"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/agents",{"children":["$","$Ld",null,{"href":"/agents","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Agents"}]}],["$","li","/tools",{"children":["$","$Ld",null,{"href":"/tools","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Tools"}]}],["$","li","/templates",{"children":["$","$Ld",null,{"href":"/templates","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Templates"}]}],["$","li","/guides",{"children":["$","$Ld",null,{"href":"/guides","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Guides"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-zinc-900 dark:text-white uppercase tracking-wider mb-4","children":"Community"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/about",{"children":["$","$Ld",null,{"href":"/about","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"About"}]}],["$","li","/rss.xml",{"children":["$","$Ld",null,{"href":"/rss.xml","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"RSS Feed"}]}],["$","li","/sitemap.xml",{"children":["$","$Ld",null,{"href":"/sitemap.xml","className":"text-sm text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-white transition-colors","children":"Sitemap"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-zinc-200 dark:border-zinc-800 flex flex-col md:flex-row justify-between items-center","children":[["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-500","children":["© ",2026," OpenClaw Wiki. All rights reserved."]}],["$","div",null,{"className":"flex space-x-6 mt-4 md:mt-0","children":["$","a",null,{"href":"https://github.com/openclaw","target":"_blank","rel":"noopener noreferrer","className":"text-zinc-400 hover:text-zinc-500 dark:hover:text-zinc-300","children":["$L16","$L17"]}]}]]}]]}]}]
+:HL["/images/openclaw-tools.png","image"]
+14:["$","img",null,{"src":"/images/openclaw-tools.png","alt":"Best OpenClaw Tools for Beginners","className":"w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"}]
+15:["$","div",null,{"className":"flex flex-col flex-1 p-5","children":[["$","$Ld",null,{"href":"/tools","className":"text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-2","children":"tools"}],["$","h3",null,{"className":"text-lg font-semibold text-zinc-900 dark:text-zinc-100 mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors","children":["$","$Ld",null,{"href":"/posts/best-openclaw-tools-beginners","children":"Best OpenClaw Tools for Beginners"}]}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-400 line-clamp-2 mb-4 flex-1","children":"Discover the essential OpenClaw tools every beginner should know. From web search to file management, these tools will supercharge your AI agents."}],["$","div",null,{"className":"flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-500","children":[["$","time",null,{"dateTime":"2026-03-14","children":"Mar 14, 2026"}],["$","span",null,{"children":"OpenClaw Team"}]]}]]}]
+16:["$","span",null,{"className":"sr-only","children":"GitHub"}]
+17:["$","svg",null,{"className":"h-6 w-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"fillRule":"evenodd","d":"M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z","clipRule":"evenodd"}]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"How to Install OpenClaw Step by Step | OpenClaw Wiki"}],["$","meta","1",{"name":"description","content":"A complete step-by-step guide to installing OpenClaw on your system. Covers all platforms: Windows, macOS, and Linux."}],["$","meta","2",{"name":"author","content":"OpenClaw Team"}],["$","meta","3",{"name":"keywords","content":"OpenClaw installation,setup guide,install OpenClaw,getting started"}],["$","meta","4",{"name":"creator","content":"OpenClaw Wiki"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://openclawwiki.com/posts/how-to-install-openclaw/"}],["$","meta","7",{"property":"og:title","content":"How to Install OpenClaw Step by Step"}],["$","meta","8",{"property":"og:description","content":"A complete step-by-step guide to installing OpenClaw on your system. Covers all platforms: Windows, macOS, and Linux."}],["$","meta","9",{"property":"og:url","content":"https://openclawwiki.com/posts/how-to-install-openclaw/"}],["$","meta","10",{"property":"og:site_name","content":"OpenClaw Wiki"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://openclawwiki.com/images/install-openclaw.png"}],["$","meta","13",{"property":"og:type","content":"article"}],["$","meta","14",{"property":"article:published_time","content":"2026-03-14"}],["$","meta","15",{"property":"article:modified_time","content":"2026-03-14"}],["$","meta","16",{"property":"article:tag","content":"installation"}],["$","meta","17",{"property":"article:tag","content":"setup"}],["$","meta","18",{"property":"article:tag","content":"beginner"}],["$","meta","19",{"property":"article:tag","content":"getting-started"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"How to Install OpenClaw Step by Step"}],["$","meta","22",{"name":"twitter:description","content":"A complete step-by-step guide to installing OpenClaw on your system. Covers all platforms: Windows, macOS, and Linux."}],["$","meta","23",{"name":"twitter:image","content":"https://openclawwiki.com/images/install-openclaw.png"}],["$","link","24",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","25",{}]]
