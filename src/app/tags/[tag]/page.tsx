@@ -9,6 +9,8 @@ interface PageProps {
   params: Promise<{ tag: string }>;
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const tags = getAllTags();
   return tags.map((tag) => ({

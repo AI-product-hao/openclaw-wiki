@@ -9,9 +9,17 @@ interface PageProps {
   params: Promise<{ category: string }>;
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
-  const categories = getAllCategories();
-  return categories.map((category) => ({
+  const dynamicCategories = getAllCategories();
+  // Ensure we always generate static pages for the routes linked in the Header
+  const staticCategories = ['tutorials', 'agents', 'tools', 'templates', 'guides'];
+  
+  // Combine dynamic and static categories, removing duplicates
+  const allCategories = Array.from(new Set([...dynamicCategories, ...staticCategories]));
+  
+  return allCategories.map((category) => ({
     category,
   }));
 }

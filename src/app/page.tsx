@@ -105,6 +105,7 @@ export default function Home() {
         </section>
 
         {/* AI Agents Section */}
+        {agentPosts.length > 0 && (
         <section className="py-16 bg-white dark:bg-zinc-950">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between mb-8">
@@ -118,9 +119,10 @@ export default function Home() {
                 View all →
               </Link>
             </div>
-            <PostGrid posts={agentPosts.length > 0 ? agentPosts : []} />
+            <PostGrid posts={agentPosts} />
           </div>
         </section>
+        )}
 
         {/* Tools Section */}
         <section className="py-16 bg-zinc-50 dark:bg-zinc-900">
@@ -141,6 +143,7 @@ export default function Home() {
         </section>
 
         {/* Templates Section */}
+        {templatePosts.length > 0 && (
         <section className="py-16 bg-white dark:bg-zinc-950">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between mb-8">
@@ -154,9 +157,10 @@ export default function Home() {
                 View all →
               </Link>
             </div>
-            <PostGrid posts={templatePosts.length > 0 ? templatePosts : []} />
+            <PostGrid posts={templatePosts} />
           </div>
         </section>
+        )}
 
         {/* Latest Articles Section */}
         <section className="py-16 bg-zinc-50 dark:bg-zinc-900">

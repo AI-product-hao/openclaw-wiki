@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://openclawwiki.com/sitemap.xml
