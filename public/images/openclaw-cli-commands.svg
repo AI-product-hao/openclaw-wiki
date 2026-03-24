@@ -1,0 +1,22 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="24" fill="#F8FAFC"/>
+  <text x="72" y="96" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">OpenClaw CLI Command Map</text>
+  <text x="72" y="136" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="22">The small set of commands most users need first</text>
+  <rect x="72" y="196" width="240" height="140" rx="24" fill="#DBEAFE"/>
+  <rect x="342" y="196" width="240" height="140" rx="24" fill="#DCFCE7"/>
+  <rect x="612" y="196" width="240" height="140" rx="24" fill="#FEF3C7"/>
+  <rect x="882" y="196" width="240" height="140" rx="24" fill="#FCE7F3"/>
+  <text x="104" y="254" fill="#1D4ED8" font-family="Courier New, monospace" font-size="26" font-weight="700">openclaw new</text>
+  <text x="104" y="294" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22">Create a project</text>
+  <text x="374" y="254" fill="#15803D" font-family="Courier New, monospace" font-size="26" font-weight="700">openclaw dev</text>
+  <text x="374" y="294" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22">Run locally</text>
+  <text x="644" y="254" fill="#B45309" font-family="Courier New, monospace" font-size="26" font-weight="700">openclaw config</text>
+  <text x="644" y="294" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22">Manage settings</text>
+  <text x="914" y="254" fill="#BE185D" font-family="Courier New, monospace" font-size="26" font-weight="700">openclaw build</text>
+  <text x="914" y="294" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22">Prepare release</text>
+  <rect x="72" y="404" width="1050" height="238" rx="28" fill="#0F172A"/>
+  <text x="110" y="468" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Beginner workflow</text>
+  <text x="110" y="520" fill="#CBD5E1" font-family="Courier New, monospace" font-size="24">$ openclaw --version</text>
+  <text x="110" y="560" fill="#CBD5E1" font-family="Courier New, monospace" font-size="24">$ openclaw new my-project</text>
+  <text x="110" y="600" fill="#CBD5E1" font-family="Courier New, monospace" font-size="24">$ cd my-project && openclaw dev</text>
+</svg>

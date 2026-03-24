@@ -2,21 +2,21 @@ primary_keyword,title,secondary_keywords,search_intent,article_type,category,tar
 OpenClaw Docker Installation,OpenClaw Docker Installation Tutorial,"openclaw docker, docker setup openclaw, containerize openclaw",informational,tutorial,tutorials,developers,pending
 OpenClaw Run Locally,How to Run OpenClaw Locally (Full Setup Guide),"run openclaw, local development openclaw, openclaw localhost",informational,tutorial,tutorials,beginners,pending
 OpenClaw Requirements,OpenClaw Requirements: Hardware and Software Explained,"openclaw system requirements, openclaw prerequisites",informational,guide,tutorials,beginners,pending
-OpenClaw CLI,OpenClaw CLI Guide: Commands and Examples,"openclaw commands, openclaw terminal, cli tutorial",informational,tutorial,tutorials,developers,pending
+OpenClaw CLI,OpenClaw CLI Guide: Commands and Examples,"openclaw commands, openclaw terminal, cli tutorial",informational,tutorial,tutorials,developers,published
 OpenClaw Python Setup,OpenClaw Setup with Python (Beginner Tutorial),"python openclaw, openclaw sdk python, pip install openclaw",informational,tutorial,tutorials,beginners,pending
 OpenClaw Installation Errors,Common OpenClaw Installation Errors and Fixes,"openclaw error, fix openclaw, openclaw troubleshooting",informational,guide,guides,developers,pending
 OpenClaw vs AutoGPT,OpenClaw vs AutoGPT vs CrewAI: Which One is Better?,"openclaw comparison, autogpt alternative, crewai vs openclaw",commercial,comparison,guides,developers,pending
 OpenClaw Architecture,How OpenClaw Works: Architecture Explained,"openclaw internals, openclaw system design, how openclaw works",informational,guide,tutorials,developers,pending
-OpenClaw Workflow,OpenClaw Workflow Guide (Step-by-Step),"openclaw workflow, automation workflow, agent workflow",informational,tutorial,tutorials,developers,pending
+OpenClaw Workflow,OpenClaw Workflow Guide (Step-by-Step),"openclaw workflow, automation workflow, agent workflow",informational,tutorial,tutorials,developers,published
 OpenClaw Deploy Server,How to Deploy OpenClaw on a Server,"deploy openclaw, openclaw production, openclaw hosting",informational,tutorial,tutorials,developers,pending
 OpenClaw API,OpenClaw API Tutorial for Developers,"openclaw api, openclaw rest api, api integration",informational,tutorial,tutorials,developers,pending
 OpenClaw Custom Skills,How to Create Custom OpenClaw Skills,"openclaw skills, custom skills, extend openclaw",informational,tutorial,tutorials,developers,pending
-OpenClaw Config,OpenClaw Configuration Guide (Complete Walkthrough),"openclaw config, openclaw settings, yaml configuration",informational,guide,guides,developers,pending
+OpenClaw Config,OpenClaw Configuration Guide (Complete Walkthrough),"openclaw config, openclaw settings, yaml configuration",informational,guide,guides,developers,published
 OpenClaw Debugging,OpenClaw Debugging Guide: Fix Common Issues,"debug openclaw, openclaw logging, fix openclaw errors",informational,guide,guides,developers,pending
 OpenClaw Performance,OpenClaw Performance Optimization Tips,"openclaw speed, optimize openclaw, openclaw benchmark",informational,guide,guides,developers,pending
 AI Research Agent,How to Build an AI Research Agent with OpenClaw,"ai research agent, research automation, openclaw agent",informational,tutorial,agents,developers,pending
 AI Marketing Agent,Create an AI Marketing Agent with OpenClaw,"ai marketing, marketing automation agent, openclaw marketing",informational,tutorial,agents,business,pending
-AI SEO Agent,How to Build an AI SEO Agent (OpenClaw Guide),"ai seo agent, seo automation, openclaw seo",informational,tutorial,agents,business,pending
+AI SEO Agent,How to Build an AI SEO Agent (OpenClaw Guide),"ai seo agent, seo automation, openclaw seo",informational,tutorial,agents,business,published
 AI Customer Support Agent,AI Customer Support Agent Tutorial (OpenClaw),"ai support agent, chatbot support, customer service ai",informational,tutorial,agents,business,pending
 AI Twitter Agent,Build a Twitter Automation Agent with OpenClaw,"twitter bot, twitter automation, social media agent",informational,tutorial,agents,business,pending
 AI YouTube Agent,Build a YouTube Content Agent with OpenClaw,"youtube agent, content automation, youtube ai",informational,tutorial,agents,business,pending

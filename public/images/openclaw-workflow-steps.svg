@@ -1,0 +1,26 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="24" fill="#F8FAFC"/>
+  <text x="72" y="96" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">OpenClaw Workflow Stages</text>
+  <text x="72" y="138" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="22">A practical path from first prompt to a reliable production workflow</text>
+  <rect x="72" y="210" width="1056" height="120" rx="26" fill="#E2E8F0"/>
+  <rect x="88" y="226" width="184" height="88" rx="20" fill="#0EA5E9"/>
+  <rect x="296" y="226" width="184" height="88" rx="20" fill="#14B8A6"/>
+  <rect x="504" y="226" width="184" height="88" rx="20" fill="#F59E0B"/>
+  <rect x="712" y="226" width="184" height="88" rx="20" fill="#EC4899"/>
+  <rect x="920" y="226" width="184" height="88" rx="20" fill="#8B5CF6"/>
+  <text x="126" y="281" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Plan</text>
+  <text x="330" y="281" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Configure</text>
+  <text x="552" y="281" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Test</text>
+  <text x="754" y="281" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Automate</text>
+  <text x="964" y="281" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Improve</text>
+  <rect x="72" y="392" width="500" height="230" rx="24" fill="#0F172A"/>
+  <text x="110" y="452" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Checklist</text>
+  <text x="110" y="500" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Define one goal</text>
+  <text x="110" y="540" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Choose the minimum tools</text>
+  <text x="110" y="580" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Test failure cases early</text>
+  <rect x="620" y="392" width="508" height="230" rx="24" fill="#DBEAFE"/>
+  <text x="658" y="452" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Outputs</text>
+  <text x="658" y="500" fill="#1E3A8A" font-family="Arial, Helvetica, sans-serif" font-size="22">Reliable prompts</text>
+  <text x="658" y="540" fill="#1E3A8A" font-family="Arial, Helvetica, sans-serif" font-size="22">Repeatable agent behavior</text>
+  <text x="658" y="580" fill="#1E3A8A" font-family="Arial, Helvetica, sans-serif" font-size="22">A workflow you can measure and scale</text>
+</svg>

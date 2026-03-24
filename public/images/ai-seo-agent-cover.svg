@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B1220"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="url(#paint0_linear)"/>
+  <rect x="84" y="96" width="440" height="438" rx="24" fill="#F8FAFC" fill-opacity="0.08" stroke="#CBD5E1" stroke-opacity="0.18"/>
+  <rect x="116" y="138" width="196" height="24" rx="12" fill="#38BDF8"/>
+  <rect x="116" y="188" width="356" height="22" rx="11" fill="#E2E8F0" fill-opacity="0.86"/>
+  <rect x="116" y="224" width="322" height="16" rx="8" fill="#94A3B8" fill-opacity="0.72"/>
+  <rect x="116" y="254" width="346" height="16" rx="8" fill="#94A3B8" fill-opacity="0.72"/>
+  <rect x="116" y="304" width="168" height="78" rx="18" fill="#0EA5E9"/>
+  <rect x="302" y="304" width="168" height="78" rx="18" fill="#14B8A6"/>
+  <rect x="116" y="400" width="354" height="90" rx="18" fill="#F8FAFC" fill-opacity="0.06" stroke="#E2E8F0" stroke-opacity="0.12"/>
+  <path d="M580 184H920" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M580 264H860" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M580 320H960" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M580 376H896" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7"/>
+  <circle cx="970" cy="190" r="54" fill="#082F49"/>
+  <path d="M946 190L964 208L998 172" stroke="#67E8F9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="580" y="470" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">AI SEO Agent</text>
+  <text x="580" y="528" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="28">Keyword to brief, draft, links, refresh</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="84" y1="68" x2="1100" y2="584" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+</svg>
